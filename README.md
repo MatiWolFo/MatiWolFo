@@ -24,11 +24,11 @@ INTERESTS:
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="40px">
+<img src="https://img.shields.io/badge/github-090B0C.svg?style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/mysql-3F81A9.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/slack-462B94.svg?style=for-the-badge&logo=slack&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/REACT-5E91C5.svg?style=for-the-badge&logo=react&logoColor=white" style="margin-bottom: 4px;" height="40px">
 </p>
-
 
 
 ## 👥 Let's Connect
