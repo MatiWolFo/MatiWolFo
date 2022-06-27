@@ -13,7 +13,6 @@ INTERESTS:
 <p> 👓 Interested in Software Development, I would love develop a games dev. career</p>
 <p> 😄 Pronouns: 🧔 He/him</p>
 <p> 👀 I love playing me fiddle 🎻, archery 🏹 and rollerblading</p>
- 
 
 ## 💻 What Have I Been Practising?
 <p>
@@ -32,15 +31,14 @@ INTERESTS:
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="margin-bottom: 4px;" height="40px">
+<img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="40px">
 </p>
-
 
 ## 👥 Let's Connect
 <p>
 <a href="https://www.instagram.com/mati_wolfo"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="40px" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mrebolledowork/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="40px" target="_blank"></a>
 </p>
-
 
 ## 📊 Github Status
 
