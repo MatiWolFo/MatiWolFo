@@ -1,4 +1,4 @@
-<div align="center"><img src="https://visitcount.itsvg.in/api?id=MatiWolFo&label=Profile%20Views&color=12&icon=5&pretty=true"><div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=MatiWolFo" alt="https://github.com/MatiWolFo"/></div>
 
 <h1 align="center">Hello There!... 👋 General Matias Rebolledo</h1>
 
