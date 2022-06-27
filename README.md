@@ -1,8 +1,8 @@
-<p align="center"><img src="https://visitcount.itsvg.in/api?id=MatiWolFo&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+<div align="center"><img src="https://visitcount.itsvg.in/api?id=MatiWolFo&label=Profile%20Views&color=12&icon=5&pretty=true"><div>
 
 <h1 align="center">Hello There!... 👋 General Matias Rebolledo</h1>
 
-🌌 I am just a new and simple Developer trying to make my way in the universe 🌌
+<p align="center">🌌 I am just a new and simple Developer trying to make my way in the universe 🌌</p>
 
 <hr>
 
