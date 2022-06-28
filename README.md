@@ -1,6 +1,6 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=MatiWolFo" alt="https://github.com/MatiWolFo"/></div>
 
-<h1 align="center">Hello There!... 👋 General Matias Rebolledo</h1>
+<h1 align="center">Hello There!... 👋 General Ariel Rebolledo</h1>
 
 <p align="center">🌌 I am just a new and simple Developer trying to make my way in the universe 🌌</p>
 
