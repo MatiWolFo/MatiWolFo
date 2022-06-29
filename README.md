@@ -13,7 +13,7 @@ INTERESTS:
 <p> 🍀 I am currently working on improving my coding skills to become a full stack dev.📚</p>
 <p> 💻 Passionate about New Technologies</p>
 <p> 🎮 High interest in gaming and lovely indies</p>
-<p> 👓 Interested in Software Development, I would love develop a games dev. career</p>
+<p> 👓 Interested in Software Development, I would love to start a games dev. career</p>
 <p> 😄 Pronouns: 🧔 He/him</p>
 <p> 👀 I love playing me fiddle 🎻, archery 🏹 and rollerblading</p>
 </div>
@@ -45,8 +45,6 @@ INTERESTS:
 </p>
 <hr>
 
-
-
 <h2 align="center">👥 Let's Connect</h2>
 <p align="center">
 <a href="https://www.instagram.com/mati_wolfo"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="40px" target="_blank"></a>
@@ -70,4 +68,4 @@ INTERESTS:
 <img  src="https://picrew.me/shareImg/org/202206/188948_YuIyxH75.png" style="margin-bottom: 10px;" height="200px">
 </div>
 
-<h1 align="center">CHEERS!</h1>
+<h1 align="center">CHEERS, MATE!</h1>
