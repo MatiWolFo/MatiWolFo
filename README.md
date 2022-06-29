@@ -37,7 +37,7 @@ INTERESTS:
 </p>
 <hr>
 
-<h2 align="center">💻 What is next on my schedule?</h2>
+<h2 align="center">💻 What Is Next On My Schedule?</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" style="margin-bottom: 4px;" height="40px">
