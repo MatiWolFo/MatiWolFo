@@ -47,7 +47,6 @@ INTERESTS:
 
 <h2 align="center">👥 Let's Connect</h2>
 <p align="center">
-<a href="https://www.instagram.com/mati_wolfo"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="40px" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mrebolledowork/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="40px" target="_blank"></a>
 </p>
 <hr>
