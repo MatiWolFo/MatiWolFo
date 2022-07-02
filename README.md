@@ -32,6 +32,7 @@ INTERESTS:
 <img src="https://img.shields.io/badge/slack-462B94.svg?style=for-the-badge&logo=slack&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" style="margin-bottom: 4px;" height="40px">
+<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" style="margin-bottom: 4px;" height="40px">
 </p>
