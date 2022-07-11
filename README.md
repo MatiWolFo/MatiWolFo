@@ -19,7 +19,7 @@ INTERESTS:
 </div>
 <hr>
 
-<h2 align="center">💻 What Have I Been Practising?</h2>
+<h2 align="center">💻 What Have I Been Practising to achieve fundamentals?</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="40px">
