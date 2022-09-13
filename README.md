@@ -10,10 +10,11 @@
 
 <div align="center">
 INTERESTS:
-<p> 🍀 I am currently working on improving my coding skills to become a full stack dev.📚</p>
+<p> 🍀 I am currently working on improving my coding skills to become a Fullstack Dev.📚</p>
+<p> 🍀 Heading to land a Frontend Dev. position over a Backend one, however, both are on my sight📚</p>
 <p> 💻 Passionate about New Technologies</p>
 <p> 🎮 High interest in gaming and lovely indies</p>
-<p> 👓 Interested in Software Development, I would love to start a games dev. career</p>
+<p> 👓 Interested in Software Development, I would love to start a games dev. career in the future</p>
 <p> 😄 Pronouns: 🧔 He/him</p>
 <p> 👀 I love playing me fiddle 🎻, archery 🏹 and rollerblading</p>
 </div>
