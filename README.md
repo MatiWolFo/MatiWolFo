@@ -31,18 +31,17 @@ INTERESTS:
 <img src="https://img.shields.io/badge/github-090B0C.svg?style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/mysql-3F81A9.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/slack-462B94.svg?style=for-the-badge&logo=slack&logoColor=white" style="margin-bottom: 4px;" height="40px">
-<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" style="margin-bottom: 4px;" height="40px">
-<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin-bottom: 4px;" height="40px">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" style="margin-bottom: 4px;" height="40px">
 </p>
+
 <hr>
 
 <h2 align="center">💻 What Is Next On My Schedule?</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" style="margin-bottom: 4px;" height="40px">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="40px">
 </p>
