@@ -1,8 +1,8 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=MatiWolFo" alt="https://github.com/MatiWolFo"/></div>
 
-<h1 align="center">Hello There!... 👋 General Ariel Rebolledo</h1>
+<h1 align="center">Hello There!... 👋 Ariel Rebolledo</h1>
 
-<p align="center">🌌 I am just a new and simple Developer trying to make my way in the universe 🌌</p>
+<p align="center">🌌 I am just a Developer trying to make my way in the universe 🌌</p>
 
 <hr>
 
@@ -15,7 +15,6 @@ INTERESTS:
 <p> 💻 Passionate about New Technologies</p>
 <p> 🎮 High interest in gaming and lovely indies</p>
 <p> 👓 Interested in Software Development, I would love to start a games dev. career in the future</p>
-<p> 😄 Pronouns: 🧔 He/him</p>
 <p> 👀 I love playing me fiddle 🎻, archery 🏹 and rollerblading</p>
 </div>
 <hr>
@@ -32,7 +31,6 @@ INTERESTS:
 <img src="https://img.shields.io/badge/mysql-3F81A9.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/slack-462B94.svg?style=for-the-badge&logo=slack&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin-bottom: 4px;" height="40px">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" style="margin-bottom: 4px;" height="40px">
 </p>
 
@@ -41,9 +39,9 @@ INTERESTS:
 <h2 align="center">💻 What Is Next On My Schedule?</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="40px">
-<img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" style="margin-bottom: 4px;" height="40px">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="40px">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="40px">
 </p>
 <hr>
 
