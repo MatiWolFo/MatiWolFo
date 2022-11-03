@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello There!... 👋 Ariel Rebolledo</h1>
 
-<p align="center">🌌 I am just a Developer trying to make my way in the universe 🌌</p>
+<h3 align="center">🌌 I am just a Developer trying to make my way in the universe 🌌</h3>
 
 <hr>
 
@@ -62,9 +62,5 @@ INTERESTS:
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiWolFo"><p>
 
 <hr>
-
-<div align="center">
-<img  src="https://picrew.me/shareImg/org/202206/188948_YuIyxH75.png" style="margin-bottom: 10px;" height="200px">
-</div>
 
 <h1 align="center">CHEERS, MATE!</h1>
